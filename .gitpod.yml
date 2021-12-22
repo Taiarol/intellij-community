@@ -1,1 +1,2 @@
-image: felipetaiarol/test
+image:
+  file: .gitpod.Dockerfile
